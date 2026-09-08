@@ -1,4 +1,12 @@
-You are helping me develop a small local AI chatbot called KayenAI.
+You are helping me develop a small local AI chatbot called FemAI.
+
+> **TODO: Rename project from KayenAI to FemAI**
+> - Global find-and-replace in all source files
+> - Update namespace: `kayenai::` → `femai::`
+> - Update directory structure and paths
+> - Update documentation and comments
+> - Update CMakeLists.txt and build configs
+> - This is a pending task to complete before next major release
 
 ## Project goal
 
@@ -407,6 +415,15 @@ prompt.md
 - Fail fast: detect corrupted checkpoints immediately
 
 ## Development Roadmap
+
+**Pre-Phase Tasks:**
+
+0. **Rename KayenAI → FemAI** (PENDING)
+   - Global find-and-replace in all source files
+   - Update namespace: `kayenai::` → `femai::`
+   - Update directory structure if needed
+   - Update CMakeLists.txt, configs, documentation
+   - Rename root folder or update paths
 
 **Build Incrementally (Validated at Each Stage):**
 

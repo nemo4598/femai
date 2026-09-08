@@ -1,0 +1,5 @@
+/media/matej/Ventoy/FemAI/build/CMakeFiles/tensor.dir
+/media/matej/Ventoy/FemAI/build/CMakeFiles/test_tensor.dir
+/media/matej/Ventoy/FemAI/build/CMakeFiles/test.dir
+/media/matej/Ventoy/FemAI/build/CMakeFiles/edit_cache.dir
+/media/matej/Ventoy/FemAI/build/CMakeFiles/rebuild_cache.dir

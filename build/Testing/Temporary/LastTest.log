@@ -1,0 +1,34 @@
+Start testing: Sep 08 18:29 CEST
+----------------------------------------------------------
+1/1 Testing: TensorTests
+1/1 Test: TensorTests
+Command: "/media/matej/Ventoy/FemAI/build/test_tensor"
+Directory: /media/matej/Ventoy/FemAI/build
+"TensorTests" start time: Sep 08 18:29 CEST
+Output:
+----------------------------------------------------------
+Running Tensor Unit Tests
+==========================
+
+Testing tensor creation... PASS
+Testing tensor fill... PASS
+Testing tensor reshape... PASS
+Testing tensor transpose... PASS
+Testing tensor clone... PASS
+Testing element-wise add... PASS
+Testing element-wise mul... PASS
+Testing matrix multiplication... PASS
+Testing tensor reductions... PASS
+Testing tensor strides... PASS
+Testing random normal generation... PASS
+
+All tests passed!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TensorTests" end time: Sep 08 18:29 CEST
+"TensorTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 08 18:29 CEST
